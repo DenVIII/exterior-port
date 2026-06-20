@@ -4,5 +4,6 @@
     <AboutSection />
     <ProfessionalApproach />
     <GallerySection />
+    <ServicesSection />
   </div>
 </template>
