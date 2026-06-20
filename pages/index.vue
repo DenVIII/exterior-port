@@ -7,5 +7,6 @@
     <ServicesSection />
     <PricingSection />
     <StepsSection />
+    <FaqSection />
   </div>
 </template>
