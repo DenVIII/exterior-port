@@ -80,7 +80,6 @@ const advantages = [
 }
 
 .professional__title {
-  font-family: 'TildaSans', Arial, sans-serif;
   font-weight: 600;
   font-size: 42px;
   line-height: 1.23;
@@ -90,7 +89,6 @@ const advantages = [
 }
 
 .professional__subtitle {
-  font-family: 'TildaSans', Arial, sans-serif;
   font-weight: 300;
   font-size: 22px;
   line-height: 1.55;
@@ -125,7 +123,6 @@ const advantages = [
 }
 
 .professional__item-title {
-  font-family: 'TildaSans', Arial, sans-serif;
   font-weight: 600;
   font-size: 20px;
   line-height: 1.35;
@@ -135,7 +132,6 @@ const advantages = [
 }
 
 .professional__item-desc {
-  font-family: 'TildaSans', Arial, sans-serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 1.55;
