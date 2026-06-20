@@ -6,5 +6,6 @@
     <GallerySection />
     <ServicesSection />
     <PricingSection />
+    <StepsSection />
   </div>
 </template>
