@@ -5,5 +5,6 @@
     <ProfessionalApproach />
     <GallerySection />
     <ServicesSection />
+    <PricingSection />
   </div>
 </template>
